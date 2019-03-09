@@ -11,7 +11,7 @@
 
 CGFloat const MBProgressMaxOffset = 1000000.f;
 
-static const CGFloat MBDefaultPadding = 6.f;
+static const CGFloat MBDefaultPadding = 5.f;
 static const CGFloat MBDefaultLabelFontSize = 16.f;
 static const CGFloat MBDefaultDetailsLabelFontSize = 12.f;
 
